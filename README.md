@@ -47,11 +47,6 @@ Bukan "AI yang berpura-pura nakal" — system prompt-nya emang dibuka total.
 ### Menu
 ![Menu](menu.png)
 
-</div>
-
-Boot animation: art **VANTORIX** merah disorot cahaya putih 3x sapuan → progress bar → clear → menu.
-Warna terminal satu palet: **merah · putih · abu**. Gak tabrakan.
-
 ---
 
 ## Fitur
@@ -71,7 +66,7 @@ Warna terminal satu palet: **merah · putih · abu**. Gak tabrakan.
 ## Instalasi
 
 ```bash
-git clone https://github.com/USERNAME/vantorixAI.git
+git clone https://github.com/artcasds/vantorix-ai          
 cd vantorixAI
 python vantorix.py
 ```
