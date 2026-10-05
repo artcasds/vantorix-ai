@@ -9,10 +9,10 @@
 [![Censorship](https://img.shields.io/badge/censorship-NONE-brightred?style=for-the-badge)](#-bedanya-apa)
 
 ```
-____   ____           ___________          .__        
+____   ____           ___________          .__
 \   \ /   /____    ___\__    ___/__________|__|__  ___
  \   Y   /\__  \  /    \|    | /  _ \_  __ \  \  \/  /
-  \     /  / __ \|   |  \    |(  <_> )  | \/  |>    < 
+  \     /  / __ \|   |  \    |(  <_> )  | \/  |>    <
    \___/  (____  /___|  /____| \____/|__|  |__/__/\_ \
                \/     \/                            \/
 ```
@@ -47,6 +47,11 @@ Bukan "AI yang berpura-pura nakal" — system prompt-nya emang dibuka total.
 ### Menu
 ![Menu](menu.png)
 
+</div>
+
+Boot animation: art **VANTORIX** merah disorot cahaya putih 3x sapuan → progress bar → clear → menu.
+Warna terminal satu palet: **merah · putih · abu**. Gak tabrakan.
+
 ---
 
 ## Fitur
@@ -66,8 +71,8 @@ Bukan "AI yang berpura-pura nakal" — system prompt-nya emang dibuka total.
 ## Instalasi
 
 ```bash
-git clone https://github.com/artcasds/vantorix-ai          
-cd vantorixAI
+git clone https://github.com/artcasds/vantorix-ai
+cd vantorix-ai
 python vantorix.py
 ```
 
