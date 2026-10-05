@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="logo.png" alt="VantorixAI Logo" width="420">
 
 # VantorixAI
 
@@ -12,10 +9,10 @@
 [![Censorship](https://img.shields.io/badge/censorship-NONE-brightred?style=for-the-badge)](#-bedanya-apa)
 
 ```
-____   ____           ___________          .__
+____   ____           ___________          .__        
 \   \ /   /____    ___\__    ___/__________|__|__  ___
  \   Y   /\__  \  /    \|    | /  _ \_  __ \  \  \/  /
-  \     /  / __ \|   |  \    |(  <_> )  | \/  |>    <
+  \     /  / __ \|   |  \    |(  <_> )  | \/  |>    < 
    \___/  (____  /___|  /____| \____/|__|  |__/__/\_ \
                \/     \/                            \/
 ```
